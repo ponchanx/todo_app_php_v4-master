@@ -1,0 +1,3 @@
+CREATE TABLE todos (
+    id INT NOT NULL AUTO_IN
+)
